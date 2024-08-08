@@ -1,0 +1,9 @@
+/* skills.css */
+
+.skill-item {
+  transition: transform 0.3s ease-in-out;
+}
+
+.skill-item:hover {
+  transform: scale(1.05); /* Adjust the scale factor for the desired zoom effect */
+}
